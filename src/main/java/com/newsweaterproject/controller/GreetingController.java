@@ -1,4 +1,4 @@
-package com.newsweaterproject;
+package com.newsweaterproject.controller;
 
 import com.newsweaterproject.domain.Message;
 import com.newsweaterproject.repos.MessageRepos;
